@@ -65,6 +65,9 @@ body.login header {
 .login-grid .login-openstreetmap-oauth2 {
     background-image: url("./openstreetmap.png");
 }
+.login-grid .login-oidc {
+    background-image: url("./authentik.png");
+}
 
 
 /* **************************** */
